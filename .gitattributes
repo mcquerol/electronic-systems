@@ -1,4 +1,1 @@
-*.html linguist-documentation
-*.md linguist-documentation
-*.ml linguist-documentation
-
+* linguist-vendored
