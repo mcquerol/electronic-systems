@@ -1,4 +1,4 @@
 *.html linguist-documentation
 *.md linguist-documentation
-*.ml linguist-generated
+*.ml linguist-documentation
 
